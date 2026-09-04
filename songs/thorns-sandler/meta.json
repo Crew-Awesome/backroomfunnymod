@@ -1,0 +1,9 @@
+{
+    "displayName": "Thorns (Sandler Mix)",
+    "bpm": 190,
+    "icon": "dad",
+    "color": "#FF78BF",
+    "difficulties": ["easy", "normal", "hard"],
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}

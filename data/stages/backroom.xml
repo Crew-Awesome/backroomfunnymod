@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage name="backroom" zoom="1" startCamPosX="770" startCamPosY="450">
+    <dad x="450" y="100" />
+    <boyfriend x="850" y="100" />
+    <girlfriend x="650" y="120" />
+</stage>

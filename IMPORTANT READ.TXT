@@ -1,0 +1,14 @@
+IMPORTANT NOTE FROM MALLOY
+
+The code is still a bit unfinished and messy.
+
+For FoxLite, you NEED to use a Codename Engine INTERNAL MERGE build.
+
+Get it from GitHub Actions.
+
+DO NOT use:
+
+* Experimental build from the website
+* Old releases
+
+If FoxLite is not working, make sure you are using the correct Internal Merge build first.

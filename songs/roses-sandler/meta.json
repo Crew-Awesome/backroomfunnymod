@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "dad",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"color": "#FF78BF",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Roses (Sandler Mix)",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 120
+}
