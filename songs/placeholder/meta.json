@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"normal"
+	],
+	"color": "#9271FD",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "placeholder",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 237
+}
